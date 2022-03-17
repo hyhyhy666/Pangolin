@@ -113,3 +113,4 @@ Please visit [Github Issues](https://github.com/stevenlovegrove/Pangolin/issues)
 
 Please note; most Pangolin dependencies are optional - to disable a dependency which may be causing trouble on your machine, simply blank out it's include and library directories with a cmake configuration tool (e.g. ccmake or cmake-gui).
 
+# Pangolin
